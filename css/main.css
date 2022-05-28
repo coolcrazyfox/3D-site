@@ -8,7 +8,7 @@
 	--gutter: 32px;
 	--side-small: 26;
 	--side-big: 36;
-	--depth: 5500px;/*content capacity*/
+	--depth: 5300px;/*content capacity*/
 	--transition: .8s cubic-bezier(.8, .5, 0, 1)
 }
 
